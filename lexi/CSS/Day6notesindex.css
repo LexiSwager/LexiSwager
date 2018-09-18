@@ -1,0 +1,11 @@
+body{margin:0;}
+.centered {
+	width:60vw;
+	height:50vh;
+	background-color: blue;
+	margin:0 auto;
+	/*to centera di, first number 
+	represents top and bottom, 
+	second value is left and right */
+
+}
