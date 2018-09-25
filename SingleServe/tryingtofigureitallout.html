@@ -1,66 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
-		<style type="text/css">
-body{
+	<title>What's My Fortune?</title>
+	<style type="text/css">
+		body{
+			background-color: black;
+		}
+		#unread{
+		background-image: url(CookieImages/basefortunecookie.png);
+		height:300px;
+		width:450px;
+		margin-left:490px;
+		margin-top:200px; 
+		cursor: pointer;
+		}
+		#unread:hover {
+			background-image: url(CookieImages/maybe.png);
+			height:300px;
+			width:450px;
+			cursor: pointer;
+		}
+		h1 {
+			text-align: center;
+			color:white;
+			font-size: 50px;
+		}
+		h2 {
 
-	background-color: black;
-}
-#unread{
-background-image: url(file:///Users/LexiSwager/Downloads/basefortunecookie.png);
-
-height:300px;
-width:450px;
-margin-left:490px;
-margin-top:1px; 
-cursor: pointer;
-
-
-}
-#unread:hover {
-	background-image: url(file:///Users/LexiSwager/Downloads/game-fortune-cookie-1%20copy.png);
-	height:300px;
-	width:450px;
-	cursor: pointer;
-
-
-}
-h1 {
-	text-align: center;
-	color:white;
-	font-size: 50px;
-}
-h2 {
-
-	text-align: center;
-	color: white;
-	font-size: 30px;
-	margin-top: 300px;
-}
-
-
-
+			text-align: center;
+			color: white;
+			font-size: 30px;
+			margin-top: 300px;
+		}
 	</style>
-
-<script  src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-		<script type="text/javascript" src="../main.js"></script>
-
-		<script>
-			$(document).ready(function() {
-    // run function on initial page load
-    // call your function by writing yourFunctionName(); below
-$("unread").click(function () {
-    $("unread").css("background-image", "url(" + image_url + ")");
-}
-
-		</script>
 </head>
 <body>
 
 	
 	<div id="unread"></div>
-	
-	
-</head>
+	<script  src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="something.js"></script>
 <body>

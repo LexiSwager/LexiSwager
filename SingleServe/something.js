@@ -10,9 +10,8 @@ button();
 //change your function name to something that makes sense. Use that name to call it above.
 
 function button() {
-$("#unread").click(function() {
-    $('#unread').css("background-image", "url(/file:///Users/LexiSwager/Downloads/fr1.png)");
-});
+	var images = ['1stfortune.png', '2ndcookie.png', '3rdcookie.png', '4thcookie.png', '5thcookie.png', '6thcookie.png', '7thcookie.png', '8thcookie.png', '9thhcook.png', '10th.png', '11th.png', '12cookie.png']
+	$("#unread").click(function() {
+  		$('#unread').css('background-image', 'url(CookieImages/' + images[Math.floor(Math.random() * images.length)] + ')');
+  	});
 }
-
-
