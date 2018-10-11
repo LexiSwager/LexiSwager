@@ -1,0 +1,42 @@
+body{
+	background-color: black;
+}
+h1{
+	font-size: 200px;
+	color:white;
+	margin-left:450px;
+	margin-right: 100px;
+font-family: 'Passion One', cursive;
+	margin-top: 100px
+}
+h2{
+text-align: justify;
+	font-size: 200px;
+	color:white;
+	margin-left:455px;
+	margin-right: 100px;
+	font-family: 'Passion One', cursive;
+	margin-top: -235px
+
+}
+p{
+	color:white;
+	font-size: 14px;
+	margin-top: -80px;
+	margin-left:160px;
+	margin-right:1040px;
+	text-align: justify;
+	margin
+}
+
+.a{
+	float:left;
+	/*transform: rotate(90deg);*/
+	margin-top:-380px;
+	margin-bottom: 20px;
+	font-family: 'Anton', sans-serif;
+	font-size: 22px;
+	letter-spacing: 13px;
+	margin-left: 150px;
+	color: white;
+}

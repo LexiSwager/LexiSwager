@@ -1,0 +1,21 @@
+h1{
+	font-size: 60px;
+	color:#C46546;
+	margin-left:100px;
+	margin-right: 800px;
+	font-family: 'Anton', sans-serif;
+	margin-top: 150px
+}
+p{
+	font-size: 14px;
+	margin-left:100px;
+	margin-right:400px;
+	text-align: justify;
+}
+h2{
+	font-family: 'Anton', sans-serif;
+	font-size: 12px;
+	margin-left:100px;
+	margin-top:-10px;
+	
+}
