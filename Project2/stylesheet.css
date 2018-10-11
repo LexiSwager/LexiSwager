@@ -1,7 +1,15 @@
 h1{
 font-family: 'Creepster', cursive;
 font-size: 80px;
+margin-left:100px;
 }
 h2, p{
 	font-family: 'Orienta', sans-serif;
+	margin-left:100px;
+	margin-right:700px;
+
+}
+ul{
+	margin-left:70px;
+
 }
