@@ -1,0 +1,66 @@
+body{
+
+	background-color: blue;
+}
+
+img{
+	max-width: 100%;
+}
+#container {
+	width: 80vw;
+	margin:0 auto;
+	background-color: orange;
+
+}
+
+.headers {
+width:30vw;
+margin: 0 auto;
+background-color: red;
+}
+
+.text {
+	width:30vw;
+	margin: 0 auto;
+	background-color: green;
+
+
+
+
+}
+
+.end {
+
+
+
+}
+@media only screen and (max-width: 600px) 
+{ body{
+	background-color: tomato; 
+}
+#container {
+	width: 80vw;
+	margin:0 auto;
+	background-color: orange;
+
+}
+
+.header {
+width:30vw;
+margin: 0 auto;
+background-color: red;
+}
+
+.p1 {
+	width:30vw;
+	margin: 0 auto;
+	background-color: green;
+
+
+
+
+}
+
+.end
+
+}

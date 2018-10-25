@@ -1,0 +1,171 @@
+	#container{
+	width: 80vw;
+	margin:0 auto;
+
+	}
+	.text 
+	{
+
+		color: black;
+	font-size:20px;
+font-family: 'Nanum Gothic', sans-serif;
+	letter-spacing: 1px;
+	margin-left:270px;
+	text-align: justify-all;
+	margin-right:314px;
+	font-weight:300;
+
+	}
+	.headers
+	{
+
+		color:black;
+	}
+		
+		h1 {
+				font-size:45px;
+				text-align: center;
+				color:#378379;
+				font-family: sans-serif, fantasy;
+				margin-top:-7px;
+				margin-bottom:-10px;
+				padding-top: ;
+				font-family: 'Nanum Gothic', sans-serif;
+			}
+	
+
+
+			h3{
+		
+			font-family: 'Fira Sans Condensed', sans-serif;
+				color:white;
+				font-style: italic;
+				margin top:px;
+
+			}
+
+			body{
+   background-image: url("pic8.jpg");
+   min-height: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;}
+
+}
+
+ul{
+	margin-left: 370px;
+	margin-right: 370px;
+	font-size:25px;
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+ {margin: 10px
+
+}
+h2 {
+ font-size: 1.5em;
+ font-family: 'Nanum Gothic', sans-serif;
+ text-align: center;
+    
+        padding: 25px;
+        padding-left:5px;
+        padding right:5px;
+    border-style: dotted;
+    border-width: 3px;
+    border-left-width: px;
+    border-right-width: px;
+    border-color: white ;
+    margin-left: 320px;
+	margin-right: 360px
+}
+@media only screen and (max-width: 600px) 
+{ body{
+	background-image: url("pic6.jpg") ; 
+
+
+
+}
+#container {
+	width: 80vw;
+	margin:0 auto;
+	
+
+}
+
+.header {
+width:80vw;
+margin: 0 auto;
+=
+}
+
+.p1 {
+	width:30vw;
+	margin: 0 auto;
+	
+
+}
+ul{
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size:25px;
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+ {margin: 10px
+
+}
+h2 {
+ font-size: 1.5em;
+ color:#88806C;
+ font-family: 'Nanum Gothic', sans-serif;
+ text-align: center;
+    
+        padding: 25px;
+       
+    border-style: dotted;
+    border-width: 3px;
+    border-left-width: px;
+    border-right-width: px;
+    border-color: white ;
+    margin-left: 20px;
+	margin-right: 60px
+}
+h1 {
+				font-size:45px;
+				margin-left: 10px
+				font-weight: bold;
+				text-align:;
+				color:#D1C4A4;
+				font-family: sans-serif, fantasy;
+			
+				font-family: 'Nanum Gothic', sans-serif;
+			}
+	
+
+
+			h3{
+		
+			font-family: 'Fira Sans Condensed', sans-serif;
+				color:white;
+				font-style: italic;
+				margin top:px;
+
+			}
+.text 
+	{
+
+		color: black;
+	font-size:20px;
+font-family: 'Nanum Gothic', sans-serif;
+	letter-spacing: 1px;
+	margin-left:10px;
+	text-align: justify-all;
+	margin-right:19px;
+	font-weight:bold;
+
+	}
+
