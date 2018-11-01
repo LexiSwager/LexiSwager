@@ -100,7 +100,19 @@ width:31px;
 	height:192px;
 	margin-left:612px;
 	margin-top:283px;
+ animation: red 10s infinite;
+    -webkit-animation: red 8s infinite;  /* Chrome, Safari, Opera */
+}
 
+/* Chrome, Safari, Opera */
+@-webkit-keyframes red {
+    from {left: 7px;}
+    to {left: 41px;}
+}
+
+@keyframes red {
+    from {left: 7px;}
+    to {left: 41px;}
 
 }
 .red2{
