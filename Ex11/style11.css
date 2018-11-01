@@ -8,6 +8,18 @@ div {
 margin-left:400px;
 
 }
+.shadow{
+	background-color: #B9B9B9;
+	width:600px;
+	height:140px;
+margin-left:50px;
+margin-top: 20px;
+ -webkit-filter: blur(40px); 
+       -moz-filter: blur(60px);
+        -ms-filter: blur(40px);    
+            filter: blur(40px); ;
+
+}
 .face 
 { 
 margin-left:228px;
@@ -419,6 +431,13 @@ transform:skewY(-12deg);
 
 
 }
+.lblock
+{
+	background-color: #432E1A;
+	width:40px;
+	height:70px;
+	margin-top:  400px;
+	margin-left:550px;}
 
 .slantright {
 background-color: #382513;
@@ -592,6 +611,15 @@ transform:skewY(12deg);
 	margin-top:  390px;
 	margin-left:840px;
 }
+.block
+{
+	background-color: #432E1A;
+	width:40px;
+	height:70px;
+	margin-top:  400px;
+	margin-left:848px;
+
+}
 .leftbutton
 {
 background-color: #C1C1C1;
@@ -617,7 +645,7 @@ margin-left: 745px;
 }
 .floorhigh{
 	background-color: #64472C;
-	width:635px;
+	width:620px;
 	height:280px;
 margin-left:409px;
 margin-top: 550px;
@@ -629,7 +657,7 @@ f  -webkit-filter: blur(20px);
 }
 .floorsha{
 	background-color: #4F361D;
-	width:635px;
+	width:620px;
 	height:180px;
 margin-left:409px;
 margin-top: 650px;
