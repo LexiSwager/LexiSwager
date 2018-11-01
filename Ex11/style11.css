@@ -94,6 +94,31 @@ background: black;
 	margin-top:35px;
 
 }
+.eye1
+{
+background-color: red;
+width:6px;
+height:3px;
+position: relative;
+margin-top:70px;
+margin-left: 8px;
+border-radius: 64px;
+ border: .5px solid white;
+ transform:skewY(7deg);
+
+
+}
+.eye2{
+	background-color: red;
+width:6px;
+height:3px;
+position: relative;
+margin-top:-4px;
+margin-left: 24px;
+border-radius: 64px;
+ border: .5px solid white;
+ transform:skewY(-7deg);
+}
 .red{
 background-color: #711307;
 width:31px;
@@ -107,12 +132,12 @@ width:31px;
 /* Chrome, Safari, Opera */
 @-webkit-keyframes red {
     from {left: 7px;}
-    to {left: 41px;}
+    to {left: 43px;}
 }
 
 @keyframes red {
     from {left: 7px;}
-    to {left: 41px;}
+    to {left: 43px;}
 
 }
 .red2{
