@@ -71,16 +71,17 @@ background: black;
 
 }
 .blood{
-	background-color: red;
-	width: 530px;
-	height:530px;
-	margin-top:500px;
-	margin-left:200px;
-	 border-radius: 50px;
-	 -webkit-filter: blur(40px); 
-       -moz-filter: blur(40px);
-        -ms-filter: blur(40px);    
-            filter: blur(40px); ;
+	background-color: #970909;
+	width: 65px;
+	height:20px;
+	margin-top:230px;
+	margin-left:160px;
+	 border-radius: 30px;
+	 -webkit-filter: blur(10px); 
+       -moz-filter: blur(10px);
+        -ms-filter: blur(10px);    
+            filter: blur(10px); ;
+;
 
 }
 .elevator {
