@@ -1,0 +1,89 @@
+html, body{
+   
+}
+h1{
+	font-family: 'Fjalla One', sans-serif;
+}
+.cover {
+content: url(cover.png);
+	background-color:red;
+	margin-top: -10px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 1430px;
+    height: 100%;
+	max-height:800px;
+    
+
+}
+.bar {
+	background-color: #72A1A2;
+	margin-top:5px;
+	margin-left:0px;
+	width:100%;
+	max-width:1450px;
+height:100px;
+}
+.bartext {
+		font-family: 'Josefin Sans', sans-serif;
+		text-align: center;
+	color:white;
+	margin-top: -55px;
+	font-style: italic;
+	font-size: 15px;
+
+}
+.hello {
+margin-top:;
+}
+h1{
+	font-size: 8vw;
+	text-align: center;
+	margin-top: 150px;
+	margin-left:150px;
+	margin-right:150px;
+}
+
+h2{
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:80px;
+
+}
+
+h3,h4,h5,h6, {}
+	
+
+.intro
+{
+	
+font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 2vw; 
+	font-style: italic;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+.paragraph{
+	margin-top:220px;
+	font-size:25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Hind', sans-serif;
+}
+
+.first,.second,.third,.fourth,.fifth,.last{
+	margin-top:20px;
+	font-size:25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Hind', sans-serif;
+
+}
