@@ -1,0 +1,16 @@
+body{
+	background-color: black
+}
+h1{
+color:white;
+text-align: center;
+font-size: 50px;
+font-family: 'Limelight', cursive;
+}
+h2,h3,h4,h5,h6
+{
+	color:white;
+	font-size: 30px;
+	text-align: center;
+font-family: 'Yeseva One', cursive;
+}

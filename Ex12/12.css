@@ -1,0 +1,60 @@
+body{
+	background-color: black
+}
+#flip{
+color:white;
+text-align: center;
+font-size: 60px;
+font-family: 'Limelight', cursive;
+background-image: url(2.jpeg);
+}
+#flip:hover{
+cursor: context-menu;
+
+}
+h1,h2,h3,h4,h5,h6
+{
+	color:white;
+	font-size: 40px;
+	text-align: center;
+font-family: 'Yeseva One', cursive;
+margin-top:100px;
+}
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #D1EAE5;
+    border: solid 1px white;
+    
+}
+
+#flip {
+font-size: 60px; }
+
+#panel {
+    padding: 10px;
+    display: none;
+    background-color: #D1EAE5;
+}
+#div1
+{
+	width:280px;height:295px;background-image:url(santa.jpeg);
+	border:solid 5px white;
+	margin-left:100px;
+}
+#div2
+{ width:280px;height:295px;background-image:url(house.jpeg);
+	border:solid 5px white;
+	margin-left:550px;
+	margin-top:-305px;}
+#div3
+{
+	width:280px;height:295px;background-image:url(tree.jpeg);
+	border:solid 5px white;
+	margin-left:1000px;
+	margin-top:-305px;
+}
+.orange{
+	background-color: orange;
+}

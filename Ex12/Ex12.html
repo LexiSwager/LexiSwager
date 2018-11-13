@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Top 5 Holidays</title>
+		<link rel="stylesheet" type="text/css" href="12.css">
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Fahkwang|Libre+Franklin|Limelight|Mukta|Old+Standard+TT|Poppins|Yeseva+One" rel="stylesheet">
+		
+		
+
+<style> 
+
+</style>
+</head>
+<body>
+ 
+<div id="flip">Top 5 Favorite Holidays</div>
+<div id="panel">
+<h1>Christmas</h1>
+<button>Christmas</button><br><br>
+
+<div id="div1"></div><div id="div2"></div>
+
+<div id="div3"></div>
+<div id="two">
+<h2 id="spoopy"> Halloween </h2> 
+</div>
+<h3> Thanksgiving </h3>
+<h4> 4th of July </h4>
+	<h5> Valentine's Day </h5>
+</div>
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+ 		<script src="ex12.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script> 
+$(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $("button").hover(function(){
+        $("#div1").fadeToggle("slow");
+        $("#div2").fadeToggle("slow");
+        $("#div3").fadeToggle("slow");
+    });
+});
+function demoFunction(){
+	$("#two").mouseenter(function(){
+		$("#spoopy").toggleClass('orange');
+
+	});
+};
+$(document).ready(function(){
+	$("#two").mouseenter(function(){
+		$("#spoopy").toggleClass('orange');
+
+});
+});
+</script>
+</body>
+</html>
+
