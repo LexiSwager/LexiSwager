@@ -128,7 +128,7 @@ font-family: 'Josefin Sans', sans-serif;
 
 }
 .pic1{
-	content: url(pic.jpg);
+	content: url(pic2.jpg);
 	background-color:red;
 	margin-top: 10px;
 	margin-left:-90px; 
@@ -138,7 +138,7 @@ font-family: 'Josefin Sans', sans-serif;
 	max-height:1300px;
 }
 .second {
-	margin-top:-1220px;
+	margin-top:0px;
 	font-size:25px;
 	margin-left: 300px;
 	margin-right: 300px;
@@ -151,23 +151,13 @@ font-family: 'Josefin Sans', sans-serif;
 	text-align: center;
 	font-size: 1vw; 
 	font-style: italic;
-	margin-top:-10px;
+	margin-top:-100px;
 	margin-left: 1000px;
 	margin-right: 50px;
 
 
 }
-.pic2
-{
-	content: url(pic2.jpg);
-	background-color:red;
-	margin-top: 450px;
-	margin-left:0px; 
-	width: 100%;
-    max-width: 790px;
-    height: 100%;
-	max-height:600px;
-}
+
 .pic3{
 
 	content: url(cove.jpg);
@@ -204,3 +194,406 @@ font-family: 'Josefin Sans', sans-serif;
 
 
 }
+@media only screen and (max-width: 699px) 
+{ body{
+	
+ ; 
+}
+h1{
+	font-family: 'Fjalla One', sans-serif;
+}
+.cover {
+content: url(cover.png);
+	background-color:red;
+	margin-top: -10px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 1430px;
+    height: 100%;
+	max-height:800px;
+    
+
+}
+.bar {
+	background-color: #72A1A2;
+	margin-top:5px;
+	margin-left:0px;
+	width:100%;
+	max-width:1450px;
+height:100px;
+}
+.bartext {
+		font-family: 'Josefin Sans', sans-serif;
+		text-align: center;
+	color:white;
+	margin-top: -55px;
+	font-style: italic;
+	font-size: 15px;
+
+}
+.hello {
+margin-top:;
+}
+h1{
+	font-size: 8vw;
+	text-align: center;
+	margin-top: 150px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+h2{
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:80px;
+
+}
+
+h3 {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:80px;
+}
+	
+h4 {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:80px;
+}
+h5
+ {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:80px;
+}
+
+h6 {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:80px;
+}
+.intro
+{
+	
+font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 2.4vw; 
+	font-style: italic;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+.paragraph{
+	margin-top:50px;
+	font-size:20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Hind', sans-serif;
+}
+
+.first,.second,.third,.fourth,.fifth,.last{
+	margin-top:20px;
+	font-size:20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Hind', sans-serif;
+
+}
+.pic1{
+	content: url(pic2.jpg);
+	background-color:red;
+	margin-top: 10px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 1000px;
+    height: 100%;
+	max-height:1300px;
+}
+.second {
+	margin-top:0px;
+	font-size:20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Hind', sans-serif;
+
+}
+.pictext{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 2vw; 
+	font-style: italic;
+	margin-top: 10px;
+	margin-left: 80px;
+	margin-right: 50px;
+
+
+}
+
+.pic3{
+
+	content: url(cove.jpg);
+	background-color:red;
+	margin-top: 10px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 800px;
+    height: 100%;
+	max-height:450px;
+
+}
+.pic4{
+
+	content: url(beach.jpg);
+	background-color:red;
+	margin-top: 20px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 800px;
+    height: 100%;
+	max-height:450px;
+
+}
+.text{
+font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 2vw; 
+	font-style: italic;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+
+}
+
+}}
+@media only screen and (max-width: 1024px, min-width: 700px) 
+{ body{
+	background-color: 
+ ; 
+}
+h1{
+	font-family: 'Fjalla One', sans-serif;
+}
+.cover {
+content: url(cover.png);
+	background-color:red;
+	margin-top: -10px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 1430px;
+    height: 100%;
+	max-height:800px;
+    
+
+}
+.bar {
+	background-color: #72A1A2;
+	margin-top:5px;
+	margin-left:0px;
+	width:100%;
+	max-width:1450px;
+height:100px;
+}
+.bartext {
+		font-family: 'Josefin Sans', sans-serif;
+		text-align: center;
+	color:white;
+	margin-top: -55px;
+	font-style: italic;
+	font-size: 15px;
+
+}
+.hello {
+margin-top:;
+}
+h1{
+	font-size: 8vw;
+	text-align: center;
+	margin-top: 150px;
+	margin-left:150px;
+	margin-right:150px;
+}
+
+h2{
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:80px;
+
+}
+
+h3 {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:80px;
+}
+	
+h4 {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:80px;
+}
+h5
+ {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:80px;
+}
+
+h6 {
+	font-size: 40px;
+	font-family: 'Fjalla One', sans-serif;
+		color:#618485;
+	
+	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:80px;
+}
+.intro
+{
+	
+font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 1.5vw; 
+	font-style: italic;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+.paragraph{
+	margin-top:220px;
+	font-size:25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Hind', sans-serif;
+}
+
+.first,.second,.third,.fourth,.fifth,.last{
+	margin-top:20px;
+	font-size:25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Hind', sans-serif;
+
+}
+.pic1{
+	content: url(pic2.jpg);
+	background-color:red;
+	margin-top: 10px;
+	margin-left:-90px; 
+	width: 100%;
+    max-width: 1000px;
+    height: 100%;
+	max-height:1300px;
+}
+.second {
+	margin-top:0px;
+	font-size:25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Hind', sans-serif;
+
+}
+.pictext{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 1vw; 
+	font-style: italic;
+	margin-top: 10px;
+	margin-left: 80px;
+	margin-right: 50px;
+
+
+}
+
+.pic3{
+
+	content: url(cove.jpg);
+	background-color:red;
+	margin-top: 10px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 800px;
+    height: 100%;
+	max-height:450px;
+
+}
+.pic4{
+
+	content: url(beach.jpg);
+	background-color:red;
+	margin-top: 20px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 800px;
+    height: 100%;
+	max-height:450px;
+
+}
+.text{
+font-family: 'Josefin Sans', sans-serif;
+	color: #BDBDBD;
+	text-align: center;
+	font-size: 1vw; 
+	font-style: italic;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+
+}
+
+}}}
+
+
+
