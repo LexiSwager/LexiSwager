@@ -1,0 +1,99 @@
+
+body {
+    background-color: #511313;
+    margin: 0;
+    color: black;
+}
+#container {
+    width: 60vw;
+    margin: 0 auto;
+    padding: 100px 0 0 0;
+}
+ 
+h1, p {
+    margin: 0;
+}
+h1 {
+    font-size: 48px;
+    text-align: center;
+    font-family: sans-serif;
+    /*text-transform: uppercase;*/
+    letter-spacing: 2px;
+}
+input {
+    width: 35vw;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 30px;
+    padding: 25px 0;
+    text-align: center;
+}
+.button {
+    width: 150px;
+    margin-left: -50px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 50px auto;
+}
+.button:hover {
+    cursor: pointer;
+}
+.button p {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+
+img{
+    margin-top: 50px;
+    width: 600px;
+    height: 400px;
+    margin-left: 100px;
+    border: 5px solid white;
+
+]
+
+
+/*LARGE DESKTOP VERSION*/
+@media only screen and (max-width: 8000px){
+    #container{
+        width: 600px;
+        margin: 10px auto;
+    }
+    img{
+        margin-left: -100px;
+    }
+
+}
+
+/*TABLET VERSION*/
+@media only screen and (max-width: 1024px){
+    h1{
+        width: 300px;
+        margin: 20px auto;
+    }
+     input{
+        width:80vw;
+    }
+}
+    
+/*MOBILE VERSION*/
+@media only screen and (max-width: 768px){
+    #container{
+        width: 80%;
+        margin: 10px auto;
+    }
+    h1{
+        width: 80%;
+        margin: 20px auto;
+    }
+     input{
+        width:80vw;
+    }
+}

@@ -592,6 +592,31 @@ font-family: 'Josefin Sans', sans-serif;
 
 
 }
+.pic5
+{
+
+	content: url(rest.jpg);
+	background-color:red;
+	margin-top: 20px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 800px;
+    height: 100%;
+	max-height:450px;
+
+}
+.pic6
+{
+
+	content: url(beach.jpg);
+	background-color:red;
+	margin-top: 20px;
+	margin-left:0px; 
+	width: 100%;
+    max-width: 800px;
+    height: 100%;
+	max-height:450px;
+}
 
 }}}
 

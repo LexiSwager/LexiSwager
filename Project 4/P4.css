@@ -1,0 +1,57 @@
+.top
+{
+	background-color: #72A1A2;
+	margin-top:-10px;
+	margin-left:-10px;
+	max-width:1442px;
+	width:1450px;
+
+height:100px;
+}
+.pic1
+{
+	width:1442px;
+	height: 741px;
+	margin-left: -10px;
+	background-color: black;
+}
+.button
+{
+position:relative;
+width:180px;
+height:80px;
+margin-top:0px;
+
+background-color: white;
+margin-left: 630px;
+
+
+}
+
+.second
+{
+background-color: orange;
+margin-top:-28px;
+margin-left: -10px;
+width:1442px;
+height:850px;
+}
+h1{
+	font-size:40px;
+	text-align: center;
+	margin-top: 
+}
+p
+{
+	font-size: 20px;
+	margin-left:200px;
+	margin-right:200px;
+}
+.text {
+	font-size: 25px;
+	margin-top:120px;
+	font-size: 20px;
+	line-height: 35px;
+	margin-left: 80px;
+	margin-right: 900px;
+}
