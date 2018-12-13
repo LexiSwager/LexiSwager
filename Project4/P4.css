@@ -328,3 +328,645 @@ margin-top:70px;
   from {opacity: .4} 
   to {opacity: 1}
 }
+@media only screen and (max-width: 1100px) 
+{ body{
+	
+ ; 
+}
+body{
+	background-color: #F9F8F2  ;
+}
+.nav {
+	margin-top: -25px
+	width: 100vw;
+	margin:0 auto;
+	background-color: #FCFCF7;
+}
+.logo {
+	content: url(pics/final/logo.png);
+	margin-left: 20px;
+	width:190px;
+height: 140px;
+
+}
+.home {
+	margin-top: -40px;
+	margin-bottom: 40px;
+}
+.home,.collection,.about{
+	float:left;
+}
+a.home:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 50px;
+}
+a.home:visited {color:#242435}
+a.home:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+ cursor:pointer;}
+
+a.collection:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 200px;
+}
+a.collection:visited {color:#242435}
+a.collection:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+cursor:pointer;}
+
+a.about:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 400px;
+}
+a.about:visited {color:#242435}
+a.about:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+cursor:pointer;}
+
+
+.pic1
+{
+	margin-top: -15px;
+	content: url(pics/frontcover1.png);
+	width:1100px;
+	height: 600px;
+	margin-left: -10px;
+	background-color: black;
+	box-shadow:0px 60px 100px #BFBCB6  ;
+}
+
+.second
+{
+background-color: #F9F8F2  ;
+margin-top:-0px;
+margin-left: -10px;
+width:1442px;
+height:870px;
+}
+h1{
+font-family: 'Cormorant Garamond', serif;
+margin-top:-750px;
+	font-weight: bold;
+	font-size:40px;
+	text-align: center;
+	margin-top: 
+	color:#242435;
+	;
+}
+h2{
+	margin-top:200px;
+	margin-left:-50px;
+	font-family: 'Cormorant Garamond', serif;
+	font-size:40px;
+	color:#242435;
+	text-align:center;
+}
+p
+{
+	font-size: 18px;
+	margin-left:300px;
+	margin-right:300px;
+	text-align: center;
+	color:#B1B19D;
+}
+.text1{
+	font-size: 18px;
+	margin-top:20px;
+	line-height: 35px;
+	margin-left: 230px;
+	margin-right: 300px;
+	text-align: center;
+	color:#B1B19D;
+}
+.pic2
+{
+	content:url(pics/pic2.jpg);
+	background-color: black;
+	width:600px;
+	height: 370px;
+	margin-left:150px;
+	margin-top: 20px;
+
+
+}
+
+.pagebreak{
+	background-color: #242435;
+	margin-left: -10px;
+width:1100px;
+height:200px;
+margin-top:-960px;
+}
+.third{
+	
+background-color: #F9F8F2  ;
+margin-top:140px;
+margin-left: -10px;
+width:1100px;
+height:850px;
+}
+.con3{
+	background-color: white;
+	width:700px;
+	height:400px;
+	margin-left:150px;
+	margin-top:-80px;
+}
+.words {
+	font-size: 2px;
+	margin-top:00px;
+	
+	line-height: 35px;
+	margin-left: 300px;
+	margin-right: 850px;
+	color:white;
+
+}
+.under{
+	
+	width: 1px;
+	height: 7px;	
+	background-color:white;
+	margin-top:px;
+	margin-left:350px;
+	color:white;
+
+}
+.fourth{
+	background-color: #F9F8F2  ;
+margin-top:px;
+margin-left: -10px;
+width:1102px;
+height:850px;
+}
+.pic3
+{content:url(pics/pic3.jpg);
+	background-color: black;
+	width:600px;
+	height: 370px;
+	margin-left:250px;
+	margin-top:-530px;
+
+}
+.hind
+{	background-color: #FFFEFB;
+	width:700px;
+	height: 400px;
+	margin-left:100px;
+	margin-top:-500px;
+   ;
+}
+.para {
+	font-size: 20px;
+	margin-top:150px;
+	font-size: 20px;
+	line-height: 35px;
+	margin-left: 200px;
+	margin-right: 260px;
+	color:#B1B19D;
+
+}
+.below{
+	font-size: 25px;
+	text-align: center;
+	margin-top:200px;
+	line-height: 35px;
+	margin-left: 300px;
+	margin-right: 300px;
+	color:#242435;
+
+}
+.end
+{
+	background-color: #242435;
+	margin-left: -10px;
+width:1102px;
+height:100px;
+margin-top:70px;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 300px;
+  position: relative;
+  margin-top: -2170px;
+  margin-left:500px;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color:#B1B19D;
+  font-size: 12px;
+  position: absolute;
+  margin-left: -330px;
+  margin-right: 2000px;
+  margin-top:-300px;
+ 
+ 
+  text-align: justify;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@media only screen and (max-width: 600px) 
+{ body{
+	
+ ; 
+}
+body{
+	background-color: #F9F8F2  ;
+}
+.nav {
+	margin-top: -25px
+	width: 100vw;
+	margin:0 auto;
+	background-color: #FCFCF7;
+}
+.logo {
+	content: url(pics/final/logo.png);
+	margin-left: 20px;
+	width:140px;
+height: 100px;
+
+}
+.home {
+	margin-top: -40px;
+	margin-bottom: 40px;
+}
+.home,.collection,.about{
+	float:left;
+}
+a.home:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 80px;
+}
+a.home:visited {color:#242435}
+a.home:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+ cursor:pointer;}
+
+a.collection:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 170px;
+}
+a.collection:visited {color:#242435}
+a.collection:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+cursor:pointer;}
+
+a.about:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 300px;
+}
+a.about:visited {color:#242435}
+a.about:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+cursor:pointer;}
+
+
+.pic1
+{
+	margin-top: -15px;
+	content: url(pics/frontcover1.png);
+	width:600px;
+	height: 300px;
+	margin-left: -10px;
+	background-color: black;
+	box-shadow:0px 60px 100px #BFBCB6  ;
+}
+
+.second
+{
+background-color: #F9F8F2  ;
+margin-top:-0px;
+margin-left: -10px;
+width:1442px;
+height:870px;
+}
+h1{
+font-family: 'Cormorant Garamond', serif;
+margin-top:-800px;
+	font-weight: bold;
+	font-size:25px;
+	text-align: center;
+	margin-top: 
+	color:#242435;
+	;
+}
+h2{
+	margin-top:100px;
+	margin-left:-10px;
+	font-family: 'Cormorant Garamond', serif;
+	font-size:25px;
+	color:#242435;
+	text-align:center;
+}
+p
+{
+	font-size: 18px;
+	margin-left:100px;
+	margin-right:100px;
+	text-align: center;
+	color:#B1B19D;
+}
+.text1{
+	font-size: 18px;
+	margin-top:20px;
+	line-height: 35px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+	color:#B1B19D;
+}
+.pic2
+{
+	content:url(pics/pic2.jpg);
+	background-color: black;
+	width:400px;
+	height: 300px;
+	margin-left:50px;
+	margin-top: 20px;
+
+
+}
+
+.pagebreak{
+	background-color: #242435;
+	margin-left: -10px;
+width:550px;
+height:200px;
+margin-top:-960px;
+}
+.third{
+	
+background-color: #F9F8F2  ;
+margin-top:140px;
+margin-left: -10px;
+width:600px;
+height:850px;
+}
+.con3{
+	background-color: white;
+	width:1px;
+	height:1px;
+	margin-left:150px;
+	margin-top:-80px;
+}
+.words {
+	font-size: 2px;
+	margin-top:00px;
+	
+	line-height: 35px;
+	margin-left: 300px;
+	margin-right: 850px;
+	color:white;
+
+}
+.under{
+	
+	width: 1px;
+	height: 1px;	
+	background-color:white;
+	margin-top:px;
+	margin-left:350px;
+	color:white;
+
+}
+.fourth{
+	background-color: #F9F8F2  ;
+margin-top:px;
+margin-left: -10px;
+width:1102px;
+height:850px;
+}
+.pic3
+{content:url(pics/pic3.jpg);
+	background-color: black;
+	width:400px;
+	height: 250px;
+	margin-left:50px;
+	margin-top:-530px;
+
+}
+.hind
+{	background-color: #FFFEFB;
+	width:700px;
+	height: 400px;
+	margin-left:100px;
+	margin-top:-500px;
+   ;
+}
+.para {
+	font-size: 12px;
+	margin-top:150px;
+	font-size: 20px;
+	line-height: 35px;
+	margin-left: 80px;
+	margin-right: 60px;
+	color:#B1B19D;
+
+}
+.below{
+	font-size: 25px;
+	text-align: center;
+	margin-top:200px;
+	line-height: 35px;
+	margin-left: 300px;
+	margin-right: 300px;
+	color:#242435;
+
+}
+.end
+{
+	background-color: #242435;
+	margin-left: -10px;
+width:602px;
+height:100px;
+margin-top:70px;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 3px;
+  position: relative;
+  margin-top: -2170px;
+  margin-left:500px;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color:#B1B19D;
+  font-size: 1px;
+  position: absolute;
+  margin-left: -330px;
+  margin-right: 2000px;
+  margin-top:-300px;
+ 
+ 
+  text-align: justify;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 1px;
+  width: 1px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
