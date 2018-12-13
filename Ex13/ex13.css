@@ -21,7 +21,8 @@ h1 {
     font-family: sans-serif;
     /*text-transform: uppercase;*/
     letter-spacing: 2px;
-}
+}   <head>
+
 input {
     width: 35vw;
     height: 40px;

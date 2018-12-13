@@ -6,3 +6,18 @@ body{
 	margin:0 auto;
 	background-color: orange;
 }
+.header,.main
+{
+	width:60vw;
+	margin:0 auto;
+	padding: 25px 0;
+
+}
+.main{
+	background-color: white;
+}
+.logo,.nav,li {
+	float:left;
+
+}
+

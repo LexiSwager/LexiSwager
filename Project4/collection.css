@@ -1,0 +1,303 @@
+body{
+	background-color: #F9F8F2  ;
+}
+
+.nav {
+	margin-top: -20px
+	width: 100vw;
+	margin:0 auto;
+	background-color: #FCFCF7;
+}
+.logo {
+	content: url(pics/final/logo.png);
+	margin-left: 20px;
+	width:190px;
+height: 140px;
+
+}
+.home {
+	margin-top: -40px;
+	margin-bottom: 40px;
+}
+.home,.collection,.about{
+	float:left;
+}
+a.home:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 100px;
+}
+a.home:visited {color:#242435}
+a.home:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+ cursor:pointer;}
+
+a.collection:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 400px;
+}
+a.collection:visited {color:#242435}
+a.collection:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+cursor:pointer;}
+
+a.about:link 
+{
+	color:#242435;
+		font-family: 'Cormorant Garamond', serif;
+		text-decoration: none;
+		font-size: 22px;
+		margin-top: -80px;
+		margin-left: 780px;
+}
+a.about:visited {color:#242435}
+a.about:hover {color:#242435;
+text-decoration: underline;
+font-weight: bold;
+cursor:pointer;}
+.line{
+	width: 100vw;
+	height: 1px;
+	background-color:#242435;
+
+
+}
+
+.pic1
+{
+	content: url(pics/final/front.png);
+	margin-top: -10px;
+	width:1450px;
+	height: 600px;
+	margin-left: -10px;
+	background-color: black;
+	box-shadow:0px 60px 100px #BFBCB6  ;
+}
+.button
+{
+position:relative;
+width:180px;
+height:80px;
+margin-top:0px;
+
+background-color: white;
+margin-left: 630px;
+
+
+}
+
+.second
+{
+background-color: #F9F8F2  ;
+margin-top:-28px;
+margin-left: -10px;
+width:1442px;
+height:870px;
+}
+h1{
+font-family: 'Cormorant Garamond', serif;
+margin-top:-750px;
+	font-weight: bold;
+	font-size:40px;
+	text-align: center;
+	margin-top: 
+	color:#242435;
+	;
+}
+h2{
+	font-family: 'Cormorant Garamond', serif;
+	font-size:40px;
+	color:#242435
+}
+p
+{
+	font-size: 18px;
+	margin-left:300px;
+	margin-right:300px;
+	text-align: center;
+	color:#B1B19D;
+}
+
+.c1 {
+	content: url(pics/final/c1.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-top:100px;
+	margin-left:130px;
+}
+.c1:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.c2 {
+	content: url(pics/final/c2.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-left:530px;
+	margin-top:-400px;
+}
+.c2:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+.c3{
+	content: url(pics/final/c3.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-left:930px;
+	margin-top:-400px;
+}
+.c3:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+.c4
+{
+	content: url(pics/final/c4.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-top:50px;
+	margin-left:130px;
+
+}
+.c4:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+.c5 {
+	content: url(pics/final/c5.png);
+
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-left:530px;
+	margin-top:-400px;}
+
+	.c5:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.c6 {
+	content: url(pics/final/c6.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-left:930px;
+	margin-top:-400px;
+
+}
+.c6:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+.c7
+{
+	content: url(pics/final/c7.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-top:50px;
+	margin-left:130px;
+
+}
+.c7:hover 
+{
+
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+.c8 {
+	content: url(pics/final/c8.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-left:530px;
+	margin-top:-400px;}
+	.c8:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.c9 {
+	content: url(pics/final/c9.png);
+	background-color: black;
+	width:370px;
+	height:400px;
+	margin-left:930px;
+	margin-top:-400px;
+
+}
+.c9:hover 
+{
+	   position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
